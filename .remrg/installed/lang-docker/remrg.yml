@@ -1,8 +1,8 @@
-name: lang-docker
-
+name: remrg/lang-docker
+track: branch/remrg/v1
 version: 1.0.0
-description: 
-type: feature
+description: 'Language-agnostic Docker foundation'
+type: language
 license: MIT
 access: public
 roots:
