@@ -36,3 +36,6 @@ scratch/
 
 # remrg
 .remrg/cache
+
+# Local database backups
+postgres-backup*.dump

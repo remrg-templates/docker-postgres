@@ -27,3 +27,6 @@
 **/.azure
 **/.kube
 **/.docker
+
+# Local database backups
+**/postgres-backup*.dump

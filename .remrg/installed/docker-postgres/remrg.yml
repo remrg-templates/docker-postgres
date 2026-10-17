@@ -1,7 +1,7 @@
-name: docker-postgres
-
+name: remrg/docker-postgres
+track: branch/remrg/v1
 version: 1.0.0
-description: 
+description: 'PostgreSQL 18 Docker service'
 type: feature
 license: MIT
 access: public
